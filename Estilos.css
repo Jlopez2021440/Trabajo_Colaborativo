@@ -67,3 +67,8 @@ article footer{
     margin-top: 20px;
 
 }
+
+aside   { width: 620px;
+float: left;
+margin: 90px 0;
+} 
