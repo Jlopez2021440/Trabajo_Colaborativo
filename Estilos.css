@@ -26,3 +26,9 @@ p{
     margin-bottom: 20px;
     padding: 40px;
 }
+
+.cabecera{
+    background: #fffbb9;
+    border: 1px solid #999999;
+    padding: 20px;
+}
