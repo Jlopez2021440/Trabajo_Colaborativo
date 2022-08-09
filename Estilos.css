@@ -44,3 +44,9 @@ p{
     padding: 5px 15px;
     text-align: left;
 }
+.menu li{
+    list-style: none;
+    padding: 8px;
+    font: bold 23px verdana;
+    display: inline-block;
+}
