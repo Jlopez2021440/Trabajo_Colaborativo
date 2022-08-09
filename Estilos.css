@@ -21,7 +21,6 @@ p{
 .agrupar {
     background: white;
     width: 1350px;
-    margin: auto;
     border: 4px solid black;
     margin-bottom: 20px;
     padding: 40px;
@@ -71,4 +70,5 @@ article footer{
 aside   { width: 620px;
 float: left;
 margin: 90px 0;
-} 
+}
+
