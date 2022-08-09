@@ -50,3 +50,15 @@ p{
     font: bold 23px verdana;
     display: inline-block;
 }
+section{
+
+    margin: 15px;
+    width: 700px;
+    float: left;
+}
+article{
+    background: #BAF9CC;
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 15px;
+}
