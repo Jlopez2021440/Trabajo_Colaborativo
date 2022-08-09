@@ -3,3 +3,8 @@ h1{
     font-family:Georgia, 'Times New Roman', Times, serif ;
     font-weight: bold;
 }
+
+header,section,  article, hgroup, p{
+    display:block;
+
+}
