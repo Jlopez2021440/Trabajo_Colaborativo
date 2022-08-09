@@ -13,3 +13,8 @@ body{
     text-align: center;
     background: gray;
 }
+
+p{
+    font: 25px sans-serif;  
+}
+
